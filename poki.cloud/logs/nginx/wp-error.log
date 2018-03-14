@@ -1,0 +1,6 @@
+2018/03/13 18:20:09 [error] 7#7: *1 access forbidden by rule, client: 172.23.0.5, server: , request: "GET / HTTP/1.0", host: "poki.cloud"
+2018/03/13 18:20:09 [error] 7#7: *2 access forbidden by rule, client: 172.23.0.5, server: , request: "GET /favicon.ico HTTP/1.0", host: "poki.cloud", referrer: "http://poki.cloud/"
+2018/03/13 18:20:26 [error] 7#7: *3 access forbidden by rule, client: 172.23.0.5, server: , request: "GET / HTTP/1.0", host: "poki.cloud"
+2018/03/13 18:20:26 [error] 7#7: *4 access forbidden by rule, client: 172.23.0.5, server: , request: "GET /favicon.ico HTTP/1.0", host: "poki.cloud", referrer: "http://poki.cloud/"
+2018/03/13 18:27:05 [error] 7#7: *5 access forbidden by rule, client: 172.23.0.5, server: , request: "GET / HTTP/1.0", host: "poki.cloud"
+2018/03/13 18:27:05 [error] 7#7: *6 access forbidden by rule, client: 172.23.0.5, server: , request: "GET /favicon.ico HTTP/1.0", host: "poki.cloud", referrer: "http://poki.cloud/"
